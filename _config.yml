@@ -2,6 +2,7 @@
 title: "Web developer"
 description: "A resume template for Jekyll and GitHub Pages sites."
 resume_name: "Web developer"
+resume_title: "Links to my contacts"
 
 # Build settings
 markdown: kramdown
