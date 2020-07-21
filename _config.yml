@@ -1,6 +1,7 @@
 # Site settings
 title: "Web developer"
 description: "A resume template for Jekyll and GitHub Pages sites."
+resume_name: "Web developer"
 
 # Build settings
 markdown: kramdown
