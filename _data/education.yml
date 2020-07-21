@@ -1,13 +1,15 @@
 # Degree
-  Institute: Voronezh State Academy of Forestry and Technologies
-  The name of the degree:  Master
-  Specialization: Information Technology
+  uni: Voronezh State Academy of Forestry and Technologies
+  degree:  Master , Information Technology
   year: 2019 &mdash; 2021
+  awards:
+  summary: Average learning score 5
   
 # Degree
-  degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+  
+  uni: Voronezh State Academy of Forestry and Technologies
+  degree: Baccalaureate, technical speciality
+  year: 2014 &mdash; 2019
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+   # - award: Summa Cumme Laude graduate
+  summary: Average learning score 4
