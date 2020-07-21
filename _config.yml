@@ -3,7 +3,7 @@ title: "Web developer"
 description: "A resume template for Jekyll and GitHub Pages sites."
 resume_name: "Web developer"
 resume_title: "Links to my contacts"
-resume_contact_email: "zhuravlev.all@yandex.ru"
+# resume_contact_email: "services@github.com"
 
 # Build settings
 markdown: kramdown
@@ -39,7 +39,7 @@ resume_social_links:
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/zhuravlevall"
-  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_instagram_url:         "https://www.instagram.com/zhuravlev.al/"
   # resume_website_url:           "http://joelglovier.com"
 resume_print_social_links:      true
 
